@@ -33,7 +33,7 @@ To use this tool, follow these steps:
 Live Demo
 ---------
 
-Try out the live version of Lincoln Legal AI directly on our website: [arithescientist.com/lincolnlegal](http://arithescientist.com/lincolnlegal).
+Try out the live version of Lincoln Legal AI directly via: [arithescientist.com/lincolnlegal](http://arithescientist.com/lincolnlegal).
 
 Technologies Used
 -----------------

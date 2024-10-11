@@ -1,5 +1,3 @@
-  Lincoln Legal AI - README
-
 Lincoln Legal AI: Automated Legal Document Summarization & Audio Generation Tool
 ================================================================================
 

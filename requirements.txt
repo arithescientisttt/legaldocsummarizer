@@ -1,0 +1,17 @@
+gradio 
+gTTS
+fpdf
+pdfminer.six
+pdf2image
+tesseract
+bert-extractive-summarizer
+sacremoses
+pdfkit
+nltk
+yake
+reportlab
+#tesseract-ocr 
+pytesseract
+transformers
+torch
+python-docx
